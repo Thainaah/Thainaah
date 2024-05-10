@@ -1,16 +1,14 @@
-### Hi there 👋
+### Oiee :)
 
-<!--
-**Thainaah/Thainaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é *Thaina*
 
-Here are some ideas to get you started:
+- 💜 Estou estudando na [Alura](http://www.alura.com.br) 
+- 🎨 Estou me aprimorando na linguagem JavaScript e scratch 
+- 👩‍💻 Estou cursando o itinerário de exatas e ciências da natureza 
+- 🤖 Estou aprendendo como desenvolver projetos de robótica e tecnologia 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨**Utilizo esse espaço para minha organização e compartilhamento dos meu projetos** ✨
+
+### Você pode entrar em contato comigo [thainacristina1463@gmail.com](thainacristina1463@gmail.com)
+
+![](https://media4.giphy.com/media/JIX9t2j0ZTN9S/giphy.webp?cid=790b7611va9lebc2uy0addxj3pgqddlscoyo7v4w2wxbgdzn&ep=v1_gifs_search&rid=giphy.webp&ct=g)
